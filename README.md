@@ -24,4 +24,4 @@ A fun and interactive web application that allows users to play drum sounds by c
 3. Press the corresponding keys on your keyboard
 4. Enjoy playing drum sounds 🎶
 
-## 📂 Project Structure
+
